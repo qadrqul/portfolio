@@ -69,14 +69,14 @@ span:before
     box-shadow: 0 0 20px #fff000;
 }
 
-/*section*/
-/*{*/
-/*        !*position: absolute;*!*/
-/*    width: 100%;*/
-/*    height: 100vh;*/
-/*    background: #3586ff;*/
-/*    overflow: hidden;*/
-/*}*/
+section
+{
+        /*position: absolute;*/
+    width: 100%;
+    height: 100vh;
+    background: #3586ff;
+    overflow: hidden;
+}
 
 section .wave
 {
